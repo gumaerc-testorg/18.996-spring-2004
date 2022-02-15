@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-996-random-matrix-theory-and-its-applications-spring-2004/0791574bd66d763e89d3c6572616d996_wintsal_tc.pdf
+file: /media/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/0791574bd66d763e89d3c6572616d996_wintsal_tc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: wintsal_tc.pdf
 uid: 0791574b-d66d-763e-89d3-c6572616d996
