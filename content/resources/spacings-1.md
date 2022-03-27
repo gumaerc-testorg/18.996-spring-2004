@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 92226527-6116-127f-97ed-88eb71bf1418
 resourcetype: Document
 title: spacings.pdf
 uid: 2d9e7294-1356-77bf-66da-ab2939532b91

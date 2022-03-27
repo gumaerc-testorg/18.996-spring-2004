@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 92226527-6116-127f-97ed-88eb71bf1418
 resourcetype: Document
 title: john_stone_dist.pdf
 uid: 35ab0030-132a-1140-4548-383bf8bdec65

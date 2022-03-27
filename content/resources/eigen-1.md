@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 92226527-6116-127f-97ed-88eb71bf1418
 resourcetype: Document
 title: eigen.pdf
 uid: 5eb3d3c0-eb0c-44b6-5936-bbc06087df1e

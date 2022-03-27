@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a96d1fc-4b83-5df1-8437-8bd9072f3987
 resourcetype: Document
 title: oc_laggure_tw.pdf
 uid: 4770a22e-0087-ba5d-8439-e0be8fd8fdaa

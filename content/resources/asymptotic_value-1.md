@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 92226527-6116-127f-97ed-88eb71bf1418
 resourcetype: Document
 title: asymptotic_value.pdf
 uid: d2dd9aa2-644d-839f-64b2-003f87207ae7

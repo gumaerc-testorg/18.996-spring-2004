@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a96d1fc-4b83-5df1-8437-8bd9072f3987
 resourcetype: Document
 title: mops.pdf
 uid: 26d541dd-0574-1552-443e-1733afe89dba

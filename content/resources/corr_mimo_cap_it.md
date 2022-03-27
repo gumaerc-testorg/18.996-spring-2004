@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a96d1fc-4b83-5df1-8437-8bd9072f3987
 resourcetype: Document
 title: corr_mimo_cap_it.pdf
 uid: e89fc8b0-b8f8-e6d1-a3bd-fd9c58104991

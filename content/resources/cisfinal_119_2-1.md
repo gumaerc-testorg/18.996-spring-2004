@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 92226527-6116-127f-97ed-88eb71bf1418
 resourcetype: Document
 title: cisfinal_119_2.pdf
 uid: da4e9880-ad39-2962-9bcc-481b8ba8587d
