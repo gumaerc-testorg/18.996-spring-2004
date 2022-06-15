@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

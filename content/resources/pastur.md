@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/a9e43f3c0b90626f118f2dd639c0986b_pastur.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/a9e43f3c0b90626f118f2dd639c0986b_pastur.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

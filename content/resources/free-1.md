@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/01036c88f72ef35784329b13de788041_free.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/01036c88f72ef35784329b13de788041_free.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

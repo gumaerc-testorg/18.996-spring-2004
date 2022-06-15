@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/3a0d5a7fe6f51ba428022500c7d1756a_oc_othopoly_tc.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/3a0d5a7fe6f51ba428022500c7d1756a_oc_othopoly_tc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

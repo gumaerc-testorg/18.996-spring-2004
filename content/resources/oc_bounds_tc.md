@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/de551c394acb0011f9bc7edb61f6b8ac_oc_bounds_tc.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/de551c394acb0011f9bc7edb61f6b8ac_oc_bounds_tc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
