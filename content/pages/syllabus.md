@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Course description and objectives.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a7b35107-463f-aa42-7fea-d718558a2d17
 ---

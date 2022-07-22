@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Project description and samples of student work.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 92226527-6116-127f-97ed-88eb71bf1418
 ---
@@ -26,8 +30,8 @@ Sample Project
 
 Numerical Methods for Random Matrices by Per-Olof Persson. MIT 18.325: Random Matrices, Fall 2002
 
-Report ([PDF]({{< baseurl >}}/resources/numrand_report)) (Courtesy of Per-Olof Persson. Used with permission.)
+Report ({{% resource_link 873a37f6-bcc7-112d-b33d-684dbb62de08 "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
 
-Slides 1 ([PDF]({{< baseurl >}}/resources/numrand_talk1)) (Courtesy of Per-Olof Persson. Used with permission.)
+Slides 1 ({{% resource_link f413570d-3b8e-71bf-4346-a3af6e0419ab "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
 
-Slides 2 ([PDF]({{< baseurl >}}/resources/numrand_talk2)) (Courtesy of Per-Olof Persson. Used with permission.)
+Slides 2 ({{% resource_link 666ec740-5b16-61fe-602d-2cef2c190741 "PDF" %}}) (Courtesy of Per-Olof Persson. Used with permission.)
