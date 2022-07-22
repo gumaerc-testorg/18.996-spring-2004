@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/e6cc2bc55869e055c987a3a19fa306cd_scaglione_capacity.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: scaglione_capacity.pdf

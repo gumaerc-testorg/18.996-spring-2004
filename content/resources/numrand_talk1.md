@@ -5,6 +5,7 @@ file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/f413
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: numrand_talk1.pdf
 uid: f413570d-3b8e-71bf-4346-a3af6e0419ab
 ---
 Student presentation slides.
-

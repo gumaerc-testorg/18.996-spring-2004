@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/4179fa5a0fb4d5969ce7a0a9fc69ce4a_science3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: science3.pdf
