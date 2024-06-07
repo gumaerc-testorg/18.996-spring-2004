@@ -2,6 +2,7 @@
 content_type: resource
 description: Student presentation slides.
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/666ec7405b1661fe602d2cef2c190741_numrand_talk2.pdf
+file_size: 287834
 file_type: application/pdf
 learning_resource_types:
 - Projects
