@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/c8b8092213e3858e9bbd6cdf1b65467e_kleinberg99web.pdf
+file_size: 218462
 file_type: application/pdf
 learning_resource_types:
 - Projects

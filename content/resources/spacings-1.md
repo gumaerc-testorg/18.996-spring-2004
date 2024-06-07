@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/2d9e7294135677bf66daab2939532b91_spacings.pdf
+file_size: 860052
 file_type: application/pdf
 learning_resource_types:
 - Projects

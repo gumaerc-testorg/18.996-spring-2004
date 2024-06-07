@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/ee8a6d0c5242a039c2bb9132a37ba716_scag_capacity.pdf
+file_size: 754968
 file_type: application/pdf
 learning_resource_types:
 - Projects
