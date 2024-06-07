@@ -2,6 +2,7 @@
 content_type: resource
 description: Professor Edelman's Thesis with some of the Eigenvalue density formulas.
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/0c403731899b10ef7d40aa796787dfa7_thesis.pdf
+file_size: 1348395
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

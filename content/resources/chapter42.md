@@ -2,6 +2,7 @@
 content_type: resource
 description: Class Handout Addendum (Handbook of Matrix Jacobians).
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/80ab65225c6fbbad185417209b18917c_chapter42.pdf
+file_size: 157984
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
