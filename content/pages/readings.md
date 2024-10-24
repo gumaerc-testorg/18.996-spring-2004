@@ -22,7 +22,7 @@ SURVEY PAPERS
 
 Simulation 1
 
-[Simulation 2](http://apricot.ap.polyu.edu.hk/~lam/dla/dla.html)
+Simulation 2
 
 [On the Second Eigenvalue and Random Walks in Random d-Regular Graphs](https://link.springer.com/article/10.1007/BF01275669) - Friedman
 
@@ -48,7 +48,7 @@ Some Elementary Results around the Wigner Semicircle Law ([PDF](http://www.physi
 
 Non-Hermition Random Matrices ([PDF](http://www.maths.qmw.ac.uk/~boris/diabl.pdf)) - Khoruzhenko
 
-[Eigenvalue Curves of Asymmetric Tridiagonal Random Matrices](http://de.arxiv.org/abs/math-ph/0011003) - Khoruzhenko
+[Eigenvalue Curves of Asymmetric Tridiagonal Random Matrices](http://arxiv.org/abs/math-ph/0011003) - Khoruzhenko
 
 [Regular Spacings of Complex Eigenvalues in the One-Dimensional Non-Hermitian Anderson Model](http://www.maths.qmul.ac.uk/~boris/spacings.html) - Khoruzhenko
 
@@ -126,7 +126,7 @@ Random Matrix Theory over Finite Fields ([PDF](http://www.ams.org/bull/2002-39-0
 
 [Inferring the Eigenvalues of Covariance Matrices from Limited, Noisy Data](https://ieeexplore.ieee.org/abstract/document/847792) - Everson and Roberts
 
-Large Dimensional Random Matrix Theory for Signal Detection and Estimation in Array Processing ([PDF](http://www4.ncsu.edu/~jack/workshop92.pdf)) - Silverstein and Combettes
+Large Dimensional Random Matrix Theory for Signal Detection and Estimation in Array Processing ([PDF](https://ieeexplore.ieee.org/document/246796/similar#similar)) - Silverstein and Combettes
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
