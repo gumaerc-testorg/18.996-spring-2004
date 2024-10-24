@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/d5a6d711cc66990d69221f2805e3c458_shamai_verdu.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/d5a6d711cc66990d69221f2805e3c458_shamai_verdu.pdf
 file_size: 678137
 file_type: application/pdf
 learning_resource_types:

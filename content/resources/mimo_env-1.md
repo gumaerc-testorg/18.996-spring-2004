@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/90d5620fbc452ab6df5ee4c9eff34476_mimo_env.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/90d5620fbc452ab6df5ee4c9eff34476_mimo_env.pdf
 file_size: 633703
 file_type: application/pdf
 learning_resource_types:

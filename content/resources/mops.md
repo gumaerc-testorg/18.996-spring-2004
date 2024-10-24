@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout.
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/26d541dd05741552443e1733afe89dba_mops.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/26d541dd05741552443e1733afe89dba_mops.pdf
 file_size: 687200
 file_type: application/pdf
 learning_resource_types:
