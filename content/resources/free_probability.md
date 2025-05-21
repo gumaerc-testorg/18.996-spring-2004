@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/3ff9c04104415cb49dc7e392a0b2a381_free_probability.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/3ff9c04104415cb49dc7e392a0b2a381_free_probability.pdf
 file_size: 306431
 file_type: application/pdf
 learning_resource_types: []

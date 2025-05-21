@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/35ab0030132a11404548383bf8bdec65_john_stone_dist.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/35ab0030132a11404548383bf8bdec65_john_stone_dist.pdf
 file_size: 861708
 file_type: application/pdf
 learning_resource_types:

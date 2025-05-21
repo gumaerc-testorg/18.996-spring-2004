@@ -2,7 +2,7 @@
 content_type: resource
 description: Code 8.1 of Random Eigenvalues by Alan Edelman. Symbolic tools are not
   perfect. The author exercised care in choosing the variables.
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/2b7145efcda0c3575006b63814358991_jacobian2by2.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/2b7145efcda0c3575006b63814358991_jacobian2by2.pdf
 file_size: 9571
 file_type: application/pdf
 learning_resource_types:
