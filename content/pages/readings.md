@@ -26,9 +26,9 @@ Simulation 2
 
 [On the Second Eigenvalue and Random Walks in Random d-Regular Graphs](https://link.springer.com/article/10.1007/BF01275669) - Friedman
 
-[Random Vicious Walks and Random Matrices](http://academic.research.microsoft.com/Publication/100454/random-vicious-walks-and-random-matrices) - Baik
+[Random Vicious Walks and Random Matrices](https://arxiv.org/abs/math/0001022) - Baik
 
-[Toeplitz Determinants, Random Growth and Determinantal Processes](http://de.arxiv.org/abs/math.PR/0304368) - Johansson
+[Toeplitz Determinants, Random Growth and Determinantal Processes](https://arxiv.org/abs/math/0304368) - Johansson
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -58,7 +58,7 @@ Non-Hermition Random Matrices ([PDF](http://www.maths.qmw.ac.uk/~boris/diabl.pdf
 
 *Functions for Random Matrices*
 
-[Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices](http://de.arxiv.org/abs/solv-int/9804004) - Tracy and Widom
+[Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices](https://arxiv.org/abs/solv-int/9804004) - Tracy and Widom
 
 [Shape Fluctuations and Random Matrices](http://link.springer.com/article/10.1007/s002200050027) - Johansson
 
@@ -106,9 +106,9 @@ Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.eec
 
 Free Probability Theory and Random Matrices ([PS](http://www.mast.queensu.ca/~speicher/papers/Peters.ps)) - Speicher
 
-[On the Law of Addition of Random Matrices](http://de.arxiv.org/abs/math-ph/0003043) - Pastur and Vasilchuk
+[On the Law of Addition of Random Matrices](https://arxiv.org/abs/math-ph/0003043) - Pastur and Vasilchuk
 
-[Law of Addition in Random Matrix Theory](http://de.arxiv.org/abs/cond-mat/9602146) - Zee
+[Law of Addition in Random Matrix Theory](https://arxiv.org/abs/cond-mat/9602146) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -164,6 +164,6 @@ Spectra of Real World Graphs ([PDF](http://angel.elte.hu/lanczos/pdf/spectra.pdf
 
 [Theoretical Limitations of Massively Parallel Biology](http://slideplayer.com/slide/5222574/) - Szallasi, Periwal, et. al.
 
-[RNA Folding and Large N Matrix Theory](http://academic.research.microsoft.com/Publication/11863641/rna-folding-and-large-n-matrix-theory) - Zee
+[RNA Folding and Large N Matrix Theory](http://web.mit.edu/18.325/www/rmt_rna.pdf) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

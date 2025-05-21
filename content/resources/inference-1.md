@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/f757deb08efe1509807ab43fc46ff727_inference.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/f757deb08efe1509807ab43fc46ff727_inference.pdf
 file_size: 354784
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/eea087f739fcda70b30ee8808d480612_telatar_capacity.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/eea087f739fcda70b30ee8808d480612_telatar_capacity.pdf
 file_size: 493672
 file_type: application/pdf
 learning_resource_types:

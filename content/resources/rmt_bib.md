@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bibliography
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/70d6ee4b11d51701384da07d32e0cc22_rmt_bib.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/70d6ee4b11d51701384da07d32e0cc22_rmt_bib.pdf
 file_size: 260165
 file_type: application/pdf
 learning_resource_types:
