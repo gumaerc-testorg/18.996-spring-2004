@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/1a73d04c3b05bb479634524a2537d891_asymptoticeigenvaluemomentsfor.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/1a73d04c3b05bb479634524a2537d891_asymptoticeigenvaluemomentsfor.pdf
 file_size: 422783
 file_type: application/pdf
 learning_resource_types: []

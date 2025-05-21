@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class Handout (Chapter 9).
-file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/b0d425552774f23a8c55bbb74694d447_chapter9.pdf
+file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/b0d425552774f23a8c55bbb74694d447_chapter9.pdf
 file_size: 277407
 file_type: application/pdf
 learning_resource_types:
