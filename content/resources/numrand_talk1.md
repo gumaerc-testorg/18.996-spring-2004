@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student presentation slides.
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/f413570d3b8e71bf4346a3af6e0419ab_numrand_talk1.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/f413570d3b8e71bf4346a3af6e0419ab_numrand_talk1.pdf
 file_size: 202597
 file_type: application/pdf
 learning_resource_types:
