@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/06d1e09db22c5fbd576d862a32747807_spacings.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/06d1e09db22c5fbd576d862a32747807_spacings.pdf
 file_size: 860052
 file_type: application/pdf
 learning_resource_types: []

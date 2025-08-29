@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class Handout (Chapter 8).
-file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/749cb01ecf127828cf7ef9732ddd543f_chapter8.pdf
+file: /ol-ocw-studio-app/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/749cb01ecf127828cf7ef9732ddd543f_chapter8.pdf
 file_size: 257402
 file_type: application/pdf
 learning_resource_types:
