@@ -24,12 +24,12 @@ Professor Edelman's Thesis with some of the Eigenvalue Density Formulas ({{% re
 
 Multivariate Orthogonal Polynomials Handout ({{% resource_link 26d541dd-0574-1552-443e-1733afe89dba "PDF" %}})
 
-{{% resource_link "75990ab9-42b9-4701-818b-9017fe3d39f4" "Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems" %}} - Winters and Salz
+[Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems](http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4%2F26%2F15893%2F00737400.pdf%3Farnumber%3D737400&authDecision=-203) - Winters and Salz
 
-{{% resource_link "06efabe2-de6a-493d-adea-ca69eb879098" "Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise" %}} - Chiani and Win
+[Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise](http://web.mit.edu/18.996/www/OC-Bounds-TC-02-03.pdf) - Chiani and Win
 
-{{% resource_link "767321b2-0038-4d2c-82a2-ad0fa55bdca7" "A Laguerre Polynomial-based Bound on the Symbol Error Probability for Adaptive Antennas with Optimum Combining" %}} - Chiani, Win, Zanella, and Winters
+[A Laguerre Polynomial-based Bound on the Symbol Error Probability for Adaptive Antennas with Optimum Combining](https://ieeexplore.ieee.org/document/1259393) - Chiani, Win, Zanella, and Winters
 
-{{% resource_link "430a4d96-87b1-42d5-af89-c837ad0ac3aa" "Error Probability for Optimum Combining of M-ary PSK Signals in the Presence of Interference and Noise" %}} - Chiani, Win, and Zanella
+[Error Probability for Optimum Combining of M-ary PSK Signals in the Presence of Interference and Noise](http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F26%2F27921%2F01246005.pdf%3Farnumber%3D1246005&authDecision=-203) - Chiani, Win, and Zanella
 
-{{% resource_link "31945d50-94bd-4492-b679-27dfff9e7b51" "On the Capacity of Spatially Correlated MIMO Rayleigh-fading Channels" %}} - Chiani, Win, and Zanella
+[On the Capacity of Spatially Correlated MIMO Rayleigh-fading Channels](https://ieeexplore.ieee.org/document/1237126) - Chiani, Win, and Zanella
