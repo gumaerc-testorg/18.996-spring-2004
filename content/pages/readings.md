@@ -24,11 +24,11 @@ Simulation 1
 
 Simulation 2
 
-{{% resource_link "00e88b5b-88f5-4bb3-9286-cbc1a8e69d20" "On the Second Eigenvalue and Random Walks in Random d-Regular Graphs" %}} - Friedman
+[On the Second Eigenvalue and Random Walks in Random d-Regular Graphs](https://link.springer.com/article/10.1007/BF01275669) - Friedman
 
-{{% resource_link "2586286c-c171-45b9-b46e-e9662f189e3f" "Random Vicious Walks and Random Matrices" %}} - Baik
+[Random Vicious Walks and Random Matrices](https://arxiv.org/abs/math/0001022) - Baik
 
-{{% resource_link "aa51060f-c32f-4109-abdc-a10fc550840e" "Toeplitz Determinants, Random Growth and Determinantal Processes" %}} - Johansson
+[Toeplitz Determinants, Random Growth and Determinantal Processes](https://arxiv.org/abs/math/0304368) - Johansson
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -36,9 +36,9 @@ Simulation 2
 
 *Proofs of Semicircle Law*
 
-{{% resource_link "e81e8742-2a1b-43d2-aa88-731259bf0a5e" "A Simple Approach to Global Regime of the Random Matrix Theory" %}} - Pastrur
+[A Simple Approach to Global Regime of the Random Matrix Theory](http://www.msri.org/web/msri) - Pastrur
 
-Some Elementary Results around the Wigner Semicircle Law ({{% resource_link "4d022f1b-5450-4511-ac2d-e322a4675671" "PDF" %}}) - Khorunzhy
+Some Elementary Results around the Wigner Semicircle Law ([PDF](http://www.physik.uni-bielefeld.de/bibos/old-bibos-site/01-03-035.pdf)) - Khorunzhy
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -46,11 +46,11 @@ Some Elementary Results around the Wigner Semicircle Law ({{% resource_link "4d0
 
 *Random Matrices with Complex Eigenvalues*
 
-Non-Hermition Random Matrices ({{% resource_link "e1ce1248-981f-4c50-b1b6-b1d109acc61c" "PDF" %}}) - Khoruzhenko
+Non-Hermition Random Matrices ([PDF](http://www.maths.qmw.ac.uk/~boris/diabl.pdf)) - Khoruzhenko
 
-{{% resource_link "382b9ffd-c456-47e9-9c44-bbe51b4cc80f" "Eigenvalue Curves of Asymmetric Tridiagonal Random Matrices" %}} - Khoruzhenko
+[Eigenvalue Curves of Asymmetric Tridiagonal Random Matrices](http://arxiv.org/abs/math-ph/0011003) - Khoruzhenko
 
-{{% resource_link "29cfda92-2469-4c1e-bc8f-4be07e7ac6c7" "Regular Spacings of Complex Eigenvalues in the One-Dimensional Non-Hermitian Anderson Model" %}} - Khoruzhenko
+[Regular Spacings of Complex Eigenvalues in the One-Dimensional Non-Hermitian Anderson Model](http://www.maths.qmul.ac.uk/~boris/spacings.html) - Khoruzhenko
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -58,9 +58,9 @@ Non-Hermition Random Matrices ({{% resource_link "e1ce1248-981f-4c50-b1b6-b1d109
 
 *Functions for Random Matrices*
 
-{{% resource_link "4cfef8a8-2f7e-4466-80e5-cb3365ad341e" "Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices" %}} - Tracy and Widom
+[Correlation Functions, Cluster Functions and Spacing Distributions for Random Matrices](https://arxiv.org/abs/solv-int/9804004) - Tracy and Widom
 
-{{% resource_link "4f372d07-4e6a-47a2-b6e6-6cc8317cc69b" "Shape Fluctuations and Random Matrices" %}} - Johansson
+[Shape Fluctuations and Random Matrices](http://link.springer.com/article/10.1007/s002200050027) - Johansson
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -68,7 +68,7 @@ Non-Hermition Random Matrices ({{% resource_link "e1ce1248-981f-4c50-b1b6-b1d109
 
 *Random Matrices and PCA*
 
-On the Distribution of the Largest Principal Component ({{% resource_link "7247b099-e8e0-44e9-a1fc-530233007445" "PDF" %}}) - Johnstone
+On the Distribution of the Largest Principal Component ([PDF](https://www.jstor.org/stable/2674106)) - Johnstone
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -76,25 +76,25 @@ On the Distribution of the Largest Principal Component ({{% resource_link "7247b
 
 *Communication Theory*
 
-Multiuser Receivers, Random Matrices, and Free Probability ({{% resource_link "6fe6a2c4-7b95-48b8-b8c7-892d2f283ff1" "PDF" %}}) - Tse
+Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.eecs.berkeley.edu/~dtse/free.pdf)) - Tse
 
-{{% resource_link "a64ec450-ff8c-4859-8a23-49e0958f4a06" "Asymptotic Eigenvalue Moments for Linear Multiuser Detection" %}} - Verdu
+[Asymptotic Eigenvalue Moments for Linear Multiuser Detection](https://ieeexplore.ieee.org/document/987677) - Verdu
 
-Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels ({{% resource_link "e3a31ccc-9dc1-4c6e-b1c1-c6d45859faf4" "PDF" %}}) - Scaglione
+Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels ([PDF](https://pdfs.semanticscholar.org/cfbf/48a5c3da40bbafc669c752baddf96c7ce90b.pdf)) - Scaglione
 
-The Statistics of the MIMO Frequency Selective Fading AWGN Channel Capacity ({{% resource_link "e359cd29-5a61-41aa-896d-61043058cb25" "PDF" %}}) - Scaglione
+The Statistics of the MIMO Frequency Selective Fading AWGN Channel Capacity ([PDF](https://pdfs.semanticscholar.org/c807/ae32f07b4a00bff549c940529816ef8cb188.pdf)) - Scaglione
 
-{{% resource_link "2379cbc5-81b0-4692-a326-d4d210c738f1" "Capacity of Multi-antenna Gaussian Channels" %}} - Telatar
+[Capacity of Multi-antenna Gaussian Channels](https://dx.doi.org/10.1002/ett.4460100604) - Telatar
 
-Complex Random Matrices and Reyleigh Channel Capacity ({{% resource_link "ce778d0e-67b1-42ab-810d-95a188d252e4" "PDF)" %}} - Ratnarajah and Vaillancourt
+Complex Random Matrices and Reyleigh Channel Capacity ([PDF)](http://www.ims.cuhk.edu.hk/~cis/2003.2/cisfinal119.pdf) - Ratnarajah and Vaillancourt
 
-{{% resource_link "f2ddca7a-9848-44c5-bed4-5da10b4838d4" "Spectral Efficiency of CDMA with Random Spreading" %}} - Verdu and Shamai
+[Spectral Efficiency of CDMA with Random Spreading](https://ieeexplore.ieee.org/document/749007) - Verdu and Shamai
 
-{{% resource_link "f9a5e276-cce1-4e5b-a19a-6c086522fa11" "Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems" %}} - Winters and Salz
+[Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems](http://ieeexplore.ieee.org/xpls/abs_all.jsp?isNumber=15893&prod=JNL&arnumber=737400&arSt=1619&ared=1624&arAuthor=Winters%2C+J.H.%3B+Salz%2C+J.&arNumber=737400&a_id0=737388&a_id1=737389&a_id2=737390&a_id3=737391&a_id4=737392&a_id5=737393&a_id6=737394&a_id7=737395&a_id8=737396&a_id9=737397&a_id10=737398&a_id11=737399&a_id12=737400&a_id13=737401&a_id14=737402&count=15) - Winters and Salz
 
-{{% resource_link "14c0c268-93af-4175-86b5-55b27b451d62" "Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise" %}} - Chiani and Win
+[Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise](https://ieeexplore.ieee.org/document/1190768) - Chiani and Win
 
-Enviromental Issues for MIMO Capacity ({{% resource_link "4c58d95d-8a80-4da1-b6b1-b458bf2cfa43" "PDF" %}}) - Bliss and Forsythe
+Enviromental Issues for MIMO Capacity ([PDF](http://www.eecs.umich.edu/~hero/Preprints/bliss_tsp02.pdf)) - Bliss and Forsythe
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -102,13 +102,13 @@ Enviromental Issues for MIMO Capacity ({{% resource_link "4c58d95d-8a80-4da1-b6b
 
 *Free Probability and Addition of Random Matrices*
 
-Multiuser Receivers, Random Matrices, and Free Probability ({{% resource_link "6fe6a2c4-7b95-48b8-b8c7-892d2f283ff1" "PDF" %}}) - Tse
+Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.eecs.berkeley.edu/~dtse/free.pdf)) - Tse
 
-Free Probability Theory and Random Matrices ({{% resource_link "5c5e78f0-1821-4143-a46e-d920b9411157" "PS" %}}) - Speicher
+Free Probability Theory and Random Matrices ([PS](http://www.mast.queensu.ca/~speicher/papers/Peters.ps)) - Speicher
 
-{{% resource_link "9b5a25e6-fa3e-4c82-9ce8-3c3b5448aa5a" "On the Law of Addition of Random Matrices" %}} - Pastur and Vasilchuk
+[On the Law of Addition of Random Matrices](https://arxiv.org/abs/math-ph/0003043) - Pastur and Vasilchuk
 
-{{% resource_link "a9ce7f1d-bca5-4e45-9ff3-777a7c3dca2f" "Law of Addition in Random Matrix Theory" %}} - Zee
+[Law of Addition in Random Matrix Theory](https://arxiv.org/abs/cond-mat/9602146) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -116,7 +116,7 @@ Free Probability Theory and Random Matrices ({{% resource_link "5c5e78f0-1821-41
 
 *Finite Fields*
 
-Random Matrix Theory over Finite Fields ({{% resource_link "27a29f47-297e-4322-88c4-51c6ddd6a602" "PDF" %}}) - Fulman
+Random Matrix Theory over Finite Fields ([PDF](http://www.ams.org/bull/2002-39-01/S0273-0979-01-00920-X/S0273-0979-01-00920-X.pdf)) - Fulman
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -124,9 +124,9 @@ Random Matrix Theory over Finite Fields ({{% resource_link "27a29f47-297e-4322-8
 
 *Array Signal Processing*
 
-{{% resource_link "32306e7f-33f3-4328-b882-e1dd275978a9" "Inferring the Eigenvalues of Covariance Matrices from Limited, Noisy Data" %}} - Everson and Roberts
+[Inferring the Eigenvalues of Covariance Matrices from Limited, Noisy Data](https://ieeexplore.ieee.org/abstract/document/847792) - Everson and Roberts
 
-Large Dimensional Random Matrix Theory for Signal Detection and Estimation in Array Processing ({{% resource_link "68c4d6b6-75a7-4de2-9d4b-fda9591aac28" "PDF" %}}) - Silverstein and Combettes
+Large Dimensional Random Matrix Theory for Signal Detection and Estimation in Array Processing ([PDF](https://ieeexplore.ieee.org/document/246796/similar#similar)) - Silverstein and Combettes
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -134,15 +134,15 @@ Large Dimensional Random Matrix Theory for Signal Detection and Estimation in Ar
 
 *Random Networks*
 
-Eigenvalues of Random Power Law Graphs ({{% resource_link "f21bf06f-09b1-457e-8e54-170582db9673" "PDF" %}}) - Chung, Lu, and Vu
+Eigenvalues of Random Power Law Graphs ([PDF](http://www.math.ucsd.edu/~fan/wp/eigen.pdf)) - Chung, Lu, and Vu
 
-{{% resource_link "07f3fa6e-bb0b-4eab-80fe-6ae58d867985" "The Web as a Graph: Measurements, Models and Methods" %}} - Kleinberg, et. al.
+[The Web as a Graph: Measurements, Models and Methods](https://link.springer.com/chapter/10.1007/3-540-48686-0_1) - Kleinberg, et. al.
 
-The Spectra of Random Graphs with Given Expected Degrees ({{% resource_link "51ceee96-a506-46e2-96e1-31fa2c35b021" "PDF" %}}) - Chung, Lu, and Vu
+The Spectra of Random Graphs with Given Expected Degrees ([PDF](http://www.math.ucsd.edu/~fan/wp/specp.pdf)) - Chung, Lu, and Vu
 
-Spectra and Eigenvectors of Scale-free Networks ({{% resource_link "c7e16669-394b-41aa-9215-5b38536ddd9f" "PDF" %}}) - Goh, Kahng, and Kim
+Spectra and Eigenvectors of Scale-free Networks ([PDF](https://arxiv.org/abs/cond-mat/0103337)) - Goh, Kahng, and Kim
 
-Spectra of Real World Graphs ({{% resource_link "2fee553a-47eb-40d4-8d97-7565814cd636" "PDF" %}}) - Farkas, et. al. 
+Spectra of Real World Graphs ([PDF](http://angel.elte.hu/lanczos/pdf/spectra.pdf)) - Farkas, et. al. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -150,11 +150,11 @@ Spectra of Real World Graphs ({{% resource_link "2fee553a-47eb-40d4-8d97-7565814
 
 *Random Graphs*
 
-Eigenvalues of Random Power Law Graphs ({{% resource_link "f21bf06f-09b1-457e-8e54-170582db9673" "PDF" %}}) - Chung, Lu, and Vu
+Eigenvalues of Random Power Law Graphs ([PDF](http://www.math.ucsd.edu/~fan/wp/eigen.pdf)) - Chung, Lu, and Vu
 
-The Spectra of Random Graphs with Given Expected Degrees ({{% resource_link "51ceee96-a506-46e2-96e1-31fa2c35b021" "PDF" %}}) - Chung, Lu, and Vu
+The Spectra of Random Graphs with Given Expected Degrees ([PDF](http://www.math.ucsd.edu/~fan/wp/specp.pdf)) - Chung, Lu, and Vu
 
-Spectra of Real World Graphs ({{% resource_link "2fee553a-47eb-40d4-8d97-7565814cd636" "PDF" %}}) - Farkas, et. al.
+Spectra of Real World Graphs ([PDF](http://angel.elte.hu/lanczos/pdf/spectra.pdf)) - Farkas, et. al.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -162,8 +162,8 @@ Spectra of Real World Graphs ({{% resource_link "2fee553a-47eb-40d4-8d97-7565814
 
 *Computational Biology*
 
-{{% resource_link "26867e60-ffa7-4c1c-a10a-9154bfdcf20c" "Theoretical Limitations of Massively Parallel Biology" %}} - Szallasi, Periwal, et. al.
+[Theoretical Limitations of Massively Parallel Biology](http://slideplayer.com/slide/5222574/) - Szallasi, Periwal, et. al.
 
-{{% resource_link "da996a25-4a1f-4952-ba21-2eb799efc066" "RNA Folding and Large N Matrix Theory" %}} - Zee
+[RNA Folding and Large N Matrix Theory](http://web.mit.edu/18.325/www/rmt_rna.pdf) - Zee
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
